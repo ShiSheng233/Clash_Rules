@@ -6,6 +6,11 @@ Based on ACL4SSR rulesets, thanks for their work.
 
 Put ```https://raw.githubusercontent.com/ShiSheng233/Clash_Rules/master/Conf.ini``` in any Clash subscription conventor. 
 
+## Credit
+
+- [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/Ruleset)
+- [lwd-temp/anti-ip-attribution](https://github.com/lwd-temp/anti-ip-attribution)
+
 ## Menu
 
 - [Coolapk](https://github.com/ShiSheng233/Clash_Rules/raw/master/Coolapk.list)
