@@ -1,6 +1,6 @@
 #Coolapk
 
-DOMAIN-SUFFIX,api.coolapk.com,IP
-DOMAIN-SUFFIX,api2.coolapk.com,IP
-DOMAIN,api-access.pangolin-sdk-toutiao.com,IP
-DOMAIN,log-api.pangolin-sdk-toutiao.com,IP
+DOMAIN-SUFFIX,api.coolapk.com
+DOMAIN-SUFFIX,api2.coolapk.com
+DOMAIN,api-access.pangolin-sdk-toutiao.com
+DOMAIN,log-api.pangolin-sdk-toutiao.com
