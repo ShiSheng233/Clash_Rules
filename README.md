@@ -6,6 +6,8 @@ Based on ACL4SSR rulesets, thanks for their work.
 
 Put ```https://raw.githubusercontent.com/ShiSheng233/Clash_Rules/master/Conf.ini``` in any Clash subscription conventor. 
 
+Or pick jsDelivr CDN link from ```https://cdn.jsdelivr.net/gh/ShiSheng233/Clash_Rules@master/Conf.ini``` .
+
 ## Credit
 
 - [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/Ruleset)
