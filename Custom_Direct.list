@@ -1,2 +1,5 @@
 # HP Printer Service
 DOMAIN-SUFFIX,ext.hp.com
+
+# Private Service
+DOMAIN-SUFFIX,kyarucloud.moe
