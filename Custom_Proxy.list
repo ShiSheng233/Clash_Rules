@@ -1,4 +1,6 @@
-# gravatar
+# Gravatar
 DOMAIN,gravatar.com
 DOMAIN,www.gravatar.com
 
+# OpenAI
+DOMAIN-SUFFIX,openai.com
