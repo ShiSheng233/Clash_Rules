@@ -22,6 +22,8 @@ Or pick jsDelivr CDN link from ```https://cdn.jsdelivr.net/gh/ShiSheng233/Clash_
 
 - [Coolapk](https://github.com/ShiSheng233/Clash_Rules/raw/master/Coolapk.list)
   ```https://github.com/ShiSheng233/Clash_Rules/raw/master/Coolapk.list```
+- [Minecraft](https://github.com/ShiSheng233/Clash_Rules/raw/master/Minecraft.list)
+  ```https://github.com/ShiSheng233/Clash_Rules/raw/master/Minecraft.list```
 
 ## PGP
 
