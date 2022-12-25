@@ -1,0 +1,9 @@
+# Java
+PROCESS-NAME=java.exe
+PROCESS-NAME=javaw.exe
+
+# Minecraft
+DOMAIN-SUFFIX=minecraft.net
+
+# Hypixel
+DOMAIN-SUFFIX=hypixel.net
