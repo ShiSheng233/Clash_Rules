@@ -2,3 +2,8 @@
 DOMAIN,gravatar.com
 DOMAIN,www.gravatar.com
 
+# Koikatsu Manager
+PROCESS-NAME,KKManager.exe
+DOMAIN-SUFFIX,betterrepack.com
+DOMAIN-SUFFIX,ai-shoujo.com
+DOMAIN-SUFFIX,honeyselect2.com
