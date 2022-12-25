@@ -1,4 +1,4 @@
-# gravatar
+# Gravatar
 DOMAIN,gravatar.com
 DOMAIN,www.gravatar.com
 
@@ -7,3 +7,6 @@ PROCESS-NAME,KKManager.exe
 DOMAIN-SUFFIX,betterrepack.com
 DOMAIN-SUFFIX,ai-shoujo.com
 DOMAIN-SUFFIX,honeyselect2.com
+
+# OpenAI
+DOMAIN-SUFFIX,openai.com
