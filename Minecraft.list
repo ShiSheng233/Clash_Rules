@@ -5,5 +5,8 @@ PROCESS-NAME,javaw.exe
 # Minecraft
 DOMAIN-SUFFIX,minecraft.net
 
+# Mojang
+DOMAIN-SUFFIX,mojang.com
+
 # Hypixel
 DOMAIN-SUFFIX,hypixel.net
