@@ -2,11 +2,6 @@
 
 Based on ACL4SSR rulesets, thanks for their work.
 
-## Sponsor
-
-- [Ztap.io](https://console.ztap.io/#/register?code=B6NROnYz)
-- [Ztap.io (Without Aff)](https://console.ztap.io/#/register)
-
 ## Usage
 
 Put ```https://raw.githubusercontent.com/ShiSheng233/Clash_Rules/master/Conf.ini``` in any Clash subscription conventor.
