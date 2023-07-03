@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,honeyselect2.com
 
 # OpenAI
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com
 
 # E-hentai
 DOMAIN-SUFFIX,e-hentai.org
