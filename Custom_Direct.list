@@ -28,3 +28,6 @@ DOMAIN-SUFFIX,steamusercontent.com
 
 # Argo Tunnel
 DOMAIN-SUFFIX,argotunnel.com
+
+# M-team
+DOMAIN-SUFFIX,m-team.io
