@@ -19,3 +19,7 @@ DOMAIN-SUFFIX,hath.network
 
 # Z-AN Live
 DOMAIN-SUFFIX,zan-live.com
+
+# Nyaa
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,sukebei.nyaa.si
