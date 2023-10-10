@@ -31,3 +31,6 @@ DOMAIN-SUFFIX,argotunnel.com
 
 # M-team
 DOMAIN-SUFFIX,m-team.io
+
+# Internal
+DOMAIN-SUFFIX,tracker.isekaijoucho.moe
