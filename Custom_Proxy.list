@@ -34,3 +34,10 @@ DOMAIN-SUFFIX,zan-live.com
 # Nyaa
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,sukebei.nyaa.si
+
+# acg.rip
+DOMAIN-SUFFIX,acg.rip
+
+# Bangumi
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
