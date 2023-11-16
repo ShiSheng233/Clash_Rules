@@ -1,0 +1,7 @@
+payload:
+  - 'DOMAIN-SUFFIX,ext.hp.com' # HP Printer
+  - 'DOMAIN-SUFFIX,xjtlu.edu.cn' # XJTLU
+  - 'DOMAIN-SUFFIX,argotunnel.com' # Argo Tunnel
+  - 'DOMAIN-SUFFIX,m-team.io' # M-team
+  - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
+  - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
