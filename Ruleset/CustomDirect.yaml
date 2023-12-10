@@ -5,3 +5,4 @@ payload:
   - 'DOMAIN-SUFFIX,m-team.io' # M-team
   - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
   - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
+  - 'DOMAIN-SUFFIX,anydesk.com' # Any Desk
