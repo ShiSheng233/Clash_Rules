@@ -6,3 +6,4 @@ payload:
   - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
   - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
   - 'DOMAIN-SUFFIX,anydesk.com' # Any Desk
+  - 'DOMAIN-SUFFIX,bpchost.skyron.usbx.me # Box
