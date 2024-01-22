@@ -4,3 +4,4 @@ payload:
   - 'DOMAIN-SUFFIX,acg.rip' # ACG.RIP
   - 'DOMAIN-SUFFIX,bgm.tv' # Bangumi
   - 'DOMAIN-SUFFIX,bangumi.tv' # Bangumi
+  - 'DOMAIN-SUFFIX,amazonaws.com' #AWS
