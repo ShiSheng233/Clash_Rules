@@ -7,4 +7,5 @@ payload:
   - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
   - 'DOMAIN-SUFFIX,anydesk.com' # Any Desk
   - 'DOMAIN-SUFFIX,bpchost.skyron.usbx.me' # Box
-  - 'DOMAIN-SUFFIX,weixin.com' # Weixin
+  - 'DOMAIN-SUFFIX,tailscale.com' # Tailscale
+  
