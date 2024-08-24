@@ -6,3 +6,4 @@ payload:
   - 'DOMAIN-SUFFIX,bangumi.tv' # Bangumi
   - 'DOMAIN-SUFFIX,amazonaws.com' #AWS
   - 'DOMAIN-SUFFIX,trip.com' # Trip.com
+  - 'DOMAIN-SUFFIX,colorfulpalette.org' #PJSK
