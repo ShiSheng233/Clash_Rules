@@ -7,3 +7,4 @@ payload:
   - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
   - 'DOMAIN-SUFFIX,anydesk.com' # Any Desk
   - 'DOMAIN-SUFFIX,bpchost.skyron.usbx.me' # Box
+  - 'DOMAIN-SUFFIX,hsbc.com.hk' # HSBC
