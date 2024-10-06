@@ -11,3 +11,5 @@ payload:
   - 'DOMAIN-SUFFIX,jmeadpoolcdn.life' #JM1
   - 'DOMAIN-SUFFIX,jmapiproxyxxx.one' #JM2
   - 'DOMAIN-SUFFIX,jmfreedomproxy.xyz' #JM2
+  - 'DOMAIN-KEYWORD,jmapiproxy' #JM
+  
