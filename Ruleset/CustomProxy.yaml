@@ -7,3 +7,5 @@ payload:
   - 'DOMAIN-SUFFIX,amazonaws.com' #AWS
   - 'DOMAIN-SUFFIX,trip.com' # Trip.com
   - 'DOMAIN-SUFFIX,colorfulpalette.org' #PJSK
+  - 'DOMAIN-SUFFIX,jmeadpoolcdn.one' #JM1
+  - 'DOMAIN-SUFFIX,jmapiproxyxxx.one' #JM2
