@@ -7,11 +7,7 @@ payload:
   - 'DOMAIN-SUFFIX,amazonaws.com' #AWS
   - 'DOMAIN-SUFFIX,trip.com' # Trip.com
   - 'DOMAIN-SUFFIX,colorfulpalette.org' #PJSK
-  - 'DOMAIN-SUFFIX,jmeadpoolcdn.one' #JM1
-  - 'DOMAIN-SUFFIX,jmeadpoolcdn.life' #JM1
-  - 'DOMAIN-SUFFIX,jmapiproxyxxx.one' #JM2
-  - 'DOMAIN-SUFFIX,jmfreedomproxy.xyz' #JM2
-  - 'DOMAIN-KEYWORD,jmapiproxy' #JM
+  - 'DOMAIN-SUFFIX,rules.xkww3n.cyou' 
   - 'DOMAIN-SUFFIX,hzj.wiki'
   - 'DOMAIN-SUFFIX,avaloniaui.net'
   - 'DOMAIN-SUFFIX,qbittorrent.org'
