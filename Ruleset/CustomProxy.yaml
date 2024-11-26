@@ -12,4 +12,4 @@ payload:
   - 'DOMAIN-SUFFIX,avaloniaui.net'
   - 'DOMAIN-SUFFIX,qbittorrent.org'
   - 'DOMAIN-SUFFIX,klook.com'
-  
+  - 'DOMAIN-SUFFIX,gist.github.com'
