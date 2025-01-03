@@ -15,3 +15,5 @@ payload:
   - 'DOMAIN-SUFFIX,gist.github.com'
   - 'DOMAIN-SUFFIX,workers.dev'
   - 'DOMAIN-SUFFIX,nikke-en.com'
+  - 'DOMAIN-SUFFIX,cloudfront.net'
+  
