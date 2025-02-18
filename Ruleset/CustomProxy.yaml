@@ -24,3 +24,4 @@ payload:
   - 'DOMAIN-SUFFIX,appstorrent.ru'
   - 'DOMAIN-SUFFIX,tmate.io'
   - 'DOMAIN-SUFFIX,notion.com'
+  - 'DOMAIN-SUFFIX,gist.github.com'
