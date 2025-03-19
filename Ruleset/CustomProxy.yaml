@@ -26,3 +26,5 @@ payload:
   - 'DOMAIN-SUFFIX,notion.com'
   - 'DOMAIN-SUFFIX,gist.github.com'
   - 'DOMAIN-SUFFIX,figma.com'
+  - 'DOMAIN-SUFFIX,generativelanguage.googleapis.com'
+  
