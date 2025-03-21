@@ -28,3 +28,4 @@ payload:
   - 'DOMAIN-SUFFIX,figma.com'
   - 'DOMAIN-SUFFIX,generativelanguage.googleapis.com'
   - 'DOMAIN-SUFFIX,ieee.org'
+  - 'DOMAIN-SUFFIX,stripe.com'
