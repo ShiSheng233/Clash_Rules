@@ -31,3 +31,4 @@ payload:
   - 'DOMAIN-SUFFIX,stripe.com'
   - 'DOMAIN-SUFFIX,jetbrains.com'
   - 'DOMAIN-SUFFIX,downloads.marketplace.jetbrains.com'
+  - 'DOMAIN-SUFFIX,asus.com'
