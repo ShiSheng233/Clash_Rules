@@ -31,3 +31,6 @@ payload:
   - 'DOMAIN-SUFFIX,jetbrains.com'
   - 'DOMAIN-SUFFIX,downloads.marketplace.jetbrains.com'
   - 'DOMAIN-SUFFIX,asus.com'
+  - 'DOMAIN-SUFFIX,shgcdn2.com'
+  - 'DOMAIN-SUFFIX,shopifysvc.com'
+  - 'DOMAIN-SUFFIX,thinkr.jp'
