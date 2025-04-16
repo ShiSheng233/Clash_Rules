@@ -6,5 +6,6 @@ payload:
   - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
   - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
   - 'DOMAIN-SUFFIX,anydesk.com' # Any Desk
-  - 'DOMAIN-SUFFIX,bpchost.skyron.usbx.me' # Box
+  - 'DOMAIN-SUFFIX,hpc.xjtlu.edu.cn'
   - 'DOMAIN-SUFFIX,duolingo.com' # Duolingo
+  
