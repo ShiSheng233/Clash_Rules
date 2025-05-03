@@ -8,4 +8,6 @@ payload:
   - 'DOMAIN-SUFFIX,anydesk.com' # Any Desk
   - 'DOMAIN-SUFFIX,hpc.xjtlu.edu.cn'
   - 'DOMAIN-SUFFIX,duolingo.com' # Duolingo
+  - 'DOMAIN-SUFFIX,msftconnecttest.com'
+  - 'DOMAIN-SUFFIX,msftncsi.com'
   

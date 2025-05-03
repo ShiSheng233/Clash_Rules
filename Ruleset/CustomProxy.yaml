@@ -6,7 +6,6 @@ payload:
   - 'DOMAIN-SUFFIX,amazonaws.com' #AWS
   - 'DOMAIN-SUFFIX,trip.com' # Trip.com
   - 'DOMAIN-SUFFIX,colorfulpalette.org' #PJSK
-  - 'DOMAIN-SUFFIX,www.msftconnecttest.com'
   - 'DOMAIN-SUFFIX,rules.xkww3n.cyou' 
   - 'DOMAIN-SUFFIX,hzj.wiki'
   - 'DOMAIN-SUFFIX,vercel.app'
