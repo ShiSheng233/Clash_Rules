@@ -38,4 +38,5 @@ payload:
   - 'DOMAIN-SUFFIX,vusercontent.net'
   - 'DOMAIN-SUFFIX,autodesk.com'
   - 'DOMAIN-SUFFIX,greasyfork.org'
-  
+  - 'DOMAIN-SUFFIX,inari.site'
+
