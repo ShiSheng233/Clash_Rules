@@ -2,6 +2,7 @@ payload:
   - 'DOMAIN-SUFFIX,ext.hp.com' # HP Printer
   - 'DOMAIN-SUFFIX,xjtlu.edu.cn' # XJTLU
   - 'DOMAIN,mail.xjtlu.edu.cn'
+  - 'DOMAIN-SUFFIX,dl.google.com'
   - 'DOMAIN-SUFFIX,argotunnel.com' # Argo Tunnel
   - 'DOMAIN-SUFFIX,m-team.io' # M-team
   - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
@@ -12,4 +13,5 @@ payload:
   - 'DOMAIN-SUFFIX,msftconnecttest.com'
   - 'DOMAIN-SUFFIX,msftncsi.com'
   - 'DOMAIN-SUFFIX,pixcakeai.com'
+
 
