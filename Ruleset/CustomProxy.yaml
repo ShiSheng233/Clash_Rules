@@ -1,6 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,nyaa.si' # Nyaa
-  - 'DOMAIN-SUFFIX,acg.rip' # ACG.RIP
+  - 'DOMAIN-SUFFIX,sukebei.nyaa.si'
   - 'DOMAIN-SUFFIX,bgm.tv' # Bangumi
   - 'DOMAIN-SUFFIX,bangumi.tv' # Bangumi
   - 'DOMAIN-SUFFIX,amazonaws.com' #AWS
@@ -39,4 +39,5 @@ payload:
   - 'DOMAIN-SUFFIX,autodesk.com'
   - 'DOMAIN-SUFFIX,greasyfork.org'
   - 'DOMAIN-SUFFIX,inari.site'
+
 
