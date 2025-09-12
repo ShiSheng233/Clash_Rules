@@ -3,7 +3,6 @@ payload:
   - 'DOMAIN-SUFFIX,xjtlu.edu.cn' # XJTLU
   - 'DOMAIN,mail.xjtlu.edu.cn'
   - 'DOMAIN-SUFFIX,dl.google.com'
-  - 'DOMAIN-SUFFIX,argotunnel.com' # Argo Tunnel
   - 'DOMAIN-SUFFIX,m-team.io' # M-team
   - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
   - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
@@ -15,4 +14,5 @@ payload:
   - 'DOMAIN-SUFFIX,pixcakeai.com'
   - 'DOMAIN-SUFFIX,shiratama.cn'
   - 'DOMAIN-SUFFIX,sc.shiratama.cn'
+
 
