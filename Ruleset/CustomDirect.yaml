@@ -13,5 +13,6 @@ payload:
   - 'DOMAIN-SUFFIX,msftconnecttest.com'
   - 'DOMAIN-SUFFIX,msftncsi.com'
   - 'DOMAIN-SUFFIX,pixcakeai.com'
-
+  - 'DOMAIN-SUFFIX,shiratama.cn'
+  - 'DOMAIN-SUFFIX,sc.shiratama.cn'
 
