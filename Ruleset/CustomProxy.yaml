@@ -39,5 +39,9 @@ payload:
   - 'DOMAIN-SUFFIX,autodesk.com'
   - 'DOMAIN-SUFFIX,greasyfork.org'
   - 'DOMAIN-SUFFIX,inari.site'
+  - 'DOMAIN-SUFFIX,argotunnel.com' # Argo Tunnel
+  - 'DOMAIN-SUFFIX,cftunnel.com'
+  - 'DOMAIN-SUFFIX,cloudflareaccess.com'
+  - 'DOMAIN-SUFFIX,cloudflareresearch.com'
 
 
