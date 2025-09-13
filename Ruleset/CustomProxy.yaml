@@ -43,5 +43,7 @@ payload:
   - 'DOMAIN-SUFFIX,cftunnel.com'
   - 'DOMAIN-SUFFIX,cloudflareaccess.com'
   - 'DOMAIN-SUFFIX,cloudflareresearch.com'
+  - 'DOMAIN-SUFFIX,mjj.today'
+
 
 
