@@ -44,6 +44,4 @@ payload:
   - 'DOMAIN-SUFFIX,cloudflareaccess.com'
   - 'DOMAIN-SUFFIX,cloudflareresearch.com'
   - 'DOMAIN-SUFFIX,mjj.today'
-
-
-
+  - 'DOMAIN-SUFFIX,mji.rip'
