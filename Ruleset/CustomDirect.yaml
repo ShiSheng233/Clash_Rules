@@ -2,6 +2,8 @@ payload:
   - 'DOMAIN-SUFFIX,ext.hp.com' # HP Printer
   - 'DOMAIN-SUFFIX,xjtlu.edu.cn' # XJTLU
   - 'DOMAIN,mail.xjtlu.edu.cn'
+  - 'DOMAIN-SUFFIX,lib.xjtlu.edu.cn'
+  - 'DOMAIN-KEYWORD,xjtlu.edu.cn'
   - 'DOMAIN-SUFFIX,dl.google.com'
   - 'DOMAIN-SUFFIX,m-team.io' # M-team
   - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
@@ -14,5 +16,6 @@ payload:
   - 'DOMAIN-SUFFIX,pixcakeai.com'
   - 'DOMAIN-SUFFIX,shiratama.cn'
   - 'DOMAIN-SUFFIX,sc.shiratama.cn'
+
 
 
