@@ -14,3 +14,20 @@ payload:
   - DOMAIN-SUFFIX,tnkjmec.com
   - DOMAIN-SUFFIX,8686c.com
   - DOMAIN,xz.pphimalayanrt.com
+  # - Apple Direct
+  - DOMAIN,api.smoot.apple.com,DIRECT
+  - DOMAIN,api.smoot.apple.cn,DIRECT
+  - DOMAIN,captive.apple.com,DIRECT
+  - DOMAIN,smp-device-content.apple.com,DIRECT
+  - DOMAIN-KEYWORD,smp-device,DIRECT
+  - DOMAIN,gs-loc.apple.com,DIRECT
+  - DOMAIN-SUFFIX,ls.apple.com.akadns.net,DIRECT
+  - DOMAIN-SUFFIX,ls.apple.com.edgesuite.net,DIRECT
+  - DOMAIN,reserve-prime.apple.com,DIRECT
+  - DOMAIN-KEYWORD,push-apple.com.akadns.net,DIRECT
+  - DOMAIN-SUFFIX,push.apple.com.akadns.net,DIRECT
+  - DOMAIN-SUFFIX,push.apple.com,DIRECT
+  - DOMAIN-SUFFIX,ls.apple.com,DIRECT
+  - DOMAIN-SUFFIX,lcdn-locator.apple.com,DIRECT
+  - DOMAIN-SUFFIX,lcdn-registration.apple.com,DIRECT
+  - DOMAIN-SUFFIX,apzones.com,DIRECT
