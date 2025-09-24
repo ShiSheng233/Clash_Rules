@@ -1,21 +1,19 @@
 payload:
   - 'DOMAIN-SUFFIX,ext.hp.com' # HP Printer
-  - 'DOMAIN-SUFFIX,xjtlu.edu.cn' # XJTLU
-  - 'DOMAIN,mail.xjtlu.edu.cn'
+  - 'DOMAIN-KEYWORD,xjtlu.edu.cn'  # XJTLU
+  - 'DOMAIN-SUFFIX,xjtlu.edu.cn'
+  - 'DOMAIN-SUFFIX,uim.xjtlu.edu.cn'
+  - 'DOMAIN-SUFFIX,mail.xjtlu.edu.cn'
   - 'DOMAIN-SUFFIX,lib.xjtlu.edu.cn'
-  - 'DOMAIN-KEYWORD,xjtlu.edu.cn'
+  - 'DOMAIN-SUFFIX,hpc.xjtlu.edu.cn'
   - 'DOMAIN-SUFFIX,dl.google.com'
   - 'DOMAIN-SUFFIX,m-team.io' # M-team
-  - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
-  - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
+  # - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
+  # - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
   - 'DOMAIN-SUFFIX,anydesk.com' # Any Desk
-  - 'DOMAIN-SUFFIX,hpc.xjtlu.edu.cn'
   - 'DOMAIN-SUFFIX,duolingo.com' # Duolingo
   - 'DOMAIN-SUFFIX,msftconnecttest.com'
   - 'DOMAIN-SUFFIX,msftncsi.com'
   - 'DOMAIN-SUFFIX,pixcakeai.com'
   - 'DOMAIN-SUFFIX,shiratama.cn'
   - 'DOMAIN-SUFFIX,sc.shiratama.cn'
-
-
-
