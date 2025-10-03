@@ -1,6 +1,8 @@
 payload:
   - 'DOMAIN-SUFFIX,ext.hp.com' # HP Printer
   - 'DOMAIN-SUFFIX,taildd2a9.ts.net' # Tailscale
+  - 'IP-CIDR,100.64.0.0/10'
+  - 'IP-CIDR,fd7a:115c:a1e0::/48'
   - 'DOMAIN-KEYWORD,xjtlu.edu.cn'  # XJTLU
   - 'DOMAIN-SUFFIX,xjtlu.edu.cn'
   - 'DOMAIN-SUFFIX,uim.xjtlu.edu.cn'
@@ -18,4 +20,5 @@ payload:
   - 'DOMAIN-SUFFIX,pixcakeai.com'
   - 'DOMAIN-SUFFIX,shiratama.cn'
   - 'DOMAIN-SUFFIX,sc.shiratama.cn'
+
 
