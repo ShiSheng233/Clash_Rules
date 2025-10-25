@@ -44,7 +44,12 @@ payload:
   - 'DOMAIN-SUFFIX,cftunnel.com'
   - 'DOMAIN-SUFFIX,cloudflareaccess.com'
   - 'DOMAIN-SUFFIX,cloudflareresearch.com'
+  - 'DOMAIN-SUFFIX,zero-trust-client.cloudflareclient.com'
+  - 'DOMAIN-SUFFIX,cloudflare-gateway.com'
+  - 'IP-CIDR,162.159.193.0/24' # https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/warp/deployment/firewall/#warp-ingress-ip
+  - 'IP-CIDR,162.159.197.0/24'
   - 'DOMAIN-SUFFIX,mjj.today'
   - 'DOMAIN-SUFFIX,mji.rip'
   - 'DOMAIN-SUFFIX,download.pytorch.org'
+
 
