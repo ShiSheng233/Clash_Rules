@@ -40,6 +40,7 @@ payload:
   - 'DOMAIN-SUFFIX,autodesk.com'
   - 'DOMAIN-SUFFIX,greasyfork.org'
   - 'DOMAIN-SUFFIX,inari.site'
+  - 'DOMAIN-SUFFIX,codeberg.org'
   - 'DOMAIN-SUFFIX,argotunnel.com' # Argo Tunnel
   - 'DOMAIN-SUFFIX,cftunnel.com'
   - 'DOMAIN-SUFFIX,cloudflareaccess.com'
@@ -51,5 +52,6 @@ payload:
   - 'DOMAIN-SUFFIX,mjj.today'
   - 'DOMAIN-SUFFIX,mji.rip'
   - 'DOMAIN-SUFFIX,download.pytorch.org'
+
 
 
