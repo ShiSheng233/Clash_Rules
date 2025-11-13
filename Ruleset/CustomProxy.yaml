@@ -52,6 +52,7 @@ payload:
   - 'DOMAIN-SUFFIX,mjj.today'
   - 'DOMAIN-SUFFIX,mji.rip'
   - 'DOMAIN-SUFFIX,download.pytorch.org'
+  - 'DOMAIN-SUFFIX,hkdata.fairuse.org'
 
 
 
