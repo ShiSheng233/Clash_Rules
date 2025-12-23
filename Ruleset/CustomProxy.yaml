@@ -54,7 +54,4 @@ payload:
   - 'DOMAIN-SUFFIX,download.pytorch.org'
   - 'DOMAIN-SUFFIX,hkdata.fairuse.org'
   - 'DOMAIN-SUFFIX,eclipsecontent.org'
-
-
-
-
+  - 'DOMAIN-KEYWORD,mypikpak'
