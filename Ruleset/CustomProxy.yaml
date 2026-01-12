@@ -1,6 +1,4 @@
 payload:
-  - 'DOMAIN-SUFFIX,nyaa.si' # Nyaa
-  - 'DOMAIN-SUFFIX,sukebei.nyaa.si'
   - 'DOMAIN-SUFFIX,bgm.tv' # Bangumi
   - 'DOMAIN-SUFFIX,bangumi.tv' # Bangumi
   - 'DOMAIN-SUFFIX,amazonaws.com' #AWS
@@ -56,3 +54,4 @@ payload:
   - 'DOMAIN-SUFFIX,eclipsecontent.org'
   - 'DOMAIN-KEYWORD,mypikpak'
   - 'DOMAIN-SUFFIX,githubusercontent.com'
+
