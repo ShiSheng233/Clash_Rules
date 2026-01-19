@@ -1,24 +1,20 @@
 payload:
-  - 'DOMAIN-SUFFIX,ext.hp.com' # HP Printer
-  - 'DOMAIN-SUFFIX,taildd2a9.ts.net' # Tailscale
-  - 'IP-CIDR,100.64.0.0/10'
-  - 'IP-CIDR,fd7a:115c:a1e0::/48'
-  - 'DOMAIN-KEYWORD,xjtlu.edu.cn'  # XJTLU
-  - 'DOMAIN-SUFFIX,xjtlu.edu.cn'
-  - 'DOMAIN-SUFFIX,uim.xjtlu.edu.cn'
-  - 'DOMAIN-SUFFIX,mail.xjtlu.edu.cn'
-  - 'DOMAIN-SUFFIX,lib.xjtlu.edu.cn'
-  - 'DOMAIN-SUFFIX,hpc.xjtlu.edu.cn'
-  - 'DOMAIN-SUFFIX,dl.google.com'
-  - 'DOMAIN-SUFFIX,m-team.io' # M-team
+  - '+.ext.hp.com' # HP Printer
+  - '+.xjtlu.edu.cn'
+  - '+.uim.xjtlu.edu.cn'
+  - '+.mail.xjtlu.edu.cn'
+  - '+.lib.xjtlu.edu.cn'
+  - '+.hpc.xjtlu.edu.cn'
+  - '+.dl.google.com'
+  - '+.m-team.io' # M-team
   # - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
   # - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
-  - 'DOMAIN-SUFFIX,anydesk.com' # Any Desk
-  - 'DOMAIN-SUFFIX,duolingo.com' # Duolingo
-  - 'DOMAIN-SUFFIX,msftconnecttest.com'
-  - 'DOMAIN-SUFFIX,msftncsi.com'
-  - 'DOMAIN-SUFFIX,pixcakeai.com'
-  - 'DOMAIN-SUFFIX,shiratama.cn'
-  - 'DOMAIN-SUFFIX,sc.shiratama.cn'
-  - 'DOMAIN-KEYWORD,bochk.com'
-  - 'DOMAIN-KEYWORD,hsbc.com.hk'
+  - '+.anydesk.com' # Any Desk
+  - '+.duolingo.com' # Duolingo
+  - '+.msftconnecttest.com'
+  - '+.msftncsi.com'
+  - '+.pixcakeai.com'
+  - '+.shiratama.cn'
+  - '+.sc.shiratama.cn'
+  - '+.bochk.com'
+  - '+.hsbc.com.hk'
