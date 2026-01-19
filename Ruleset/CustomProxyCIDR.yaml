@@ -1,0 +1,5 @@
+payload:
+  - '162.159.193.0/24' # https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/warp/deployment/firewall/#warp-ingress-ip
+  - '162.159.197.0/24'
+  - '2606:4700:100::/48'
+  - '2606:4700:102::/48'
