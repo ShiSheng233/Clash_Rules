@@ -8,7 +8,6 @@ payload:
   - '+.dl.google.com'
   - '+.m-team.io' # M-team
   # - 'DOMAIN,tracker.isekaijoucho.moe' # Internal Tracker
-  # - 'DOMAIN-KEYWORD,epicgames-download' # Epic Download
   - '+.anydesk.com' # Any Desk
   - '+.duolingo.com' # Duolingo
   - '+.msftconnecttest.com'
@@ -35,3 +34,10 @@ payload:
   - '+.steamchina.com'
   - '+.steamcontent.com'
   - '+.steamusercontent.com'
+  # Apple Map China
+  - '+.is.autonavi.com'
+  - 'gspe11-2-cn-ssl.ls.apple.com'
+  - 'gspe12-cn-ssl.ls.apple.com'
+  - 'gspe19-cn-ssl.ls.apple.com'
+  - 'gspe19-2-cn-ssl.ls.apple.com'
+  - 'gspe79-cn-ssl.ls.apple.com'
